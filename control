@@ -1,0 +1,12 @@
+Package: me.shymemoriees.tick
+Name: Tick
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (<< 13)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bring the 3D Touch tick sound for Apps from iOS 13 to iOS 12 and lower
+Maintainer: ShyMemoriees <shymemoriees@yahoo.com> 
+Author: ShyMemoriees <shymemoriees@yahoo.com> 
+Section: Tweaks
+Depiction: https://repo.shymemoriees.me/depictions/tck/index.html
+SileoDepiction: https://repo.shymemoriees.me/depictions/tck/tck.json
+Icon: https://repo.shymemoriees.me/depictions/tck/assets/icon.png
